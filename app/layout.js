@@ -4,9 +4,9 @@ import "./style/globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "EmployWise User Management",
+  title: "User Management",
   description:
-    "User management application with authentication and CRUD operations",
+    "User management application",
 };
 
 export default function RootLayout({ children }) {
